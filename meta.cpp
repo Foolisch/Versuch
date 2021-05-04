@@ -1,4 +1,4 @@
 protocol = 1;
-publishedid = 0;
-name = "MainMenuMusikMod";
-timestamp = 5249242827508958185;
+publishedid = 2075831381;
+name = "SchanaModParty";
+timestamp = 5249222699177745855;
